@@ -3,5 +3,6 @@ public class A{
 	System.out.println("init...");
 	String s = "abc";
 	int x = 2;
+	long t = 5;
   }
 }
