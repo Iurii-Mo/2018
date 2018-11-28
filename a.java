@@ -4,5 +4,6 @@ public class A{
 	String s = "abc";
 	int x = 2;
 	long t = 5;
+	String name = "Java";
   }
 }
