@@ -1,9 +1,6 @@
 public class A{
   public stati void main( String ... args ) {
-	System.out.println("init...");
-	String s = "abc";
-	int x = 2;
-	long t = 5;
-	String name = "Java";
+	System.out.println("File c");
+	
   }
 }
