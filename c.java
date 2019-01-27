@@ -4,3 +4,5 @@ public class A{
 	System.out.println("new LINE");
   }
 }
+Line 1
+Line 2
